@@ -18,7 +18,7 @@ public class ProgGUI {
         }
         else {
            JOptionPane.showMessageDialog(null, "GOODBYE");
-           //System.out.println("I am " + name + " & I am " + age + " years old " + success );
+           System.out.println("I am " + name + " & I am " + age + " years old " + success );
            System.exit(0);
         }
 		
